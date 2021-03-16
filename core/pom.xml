@@ -269,7 +269,7 @@
               </artifactSet>
               <createDependencyReducedPom>false</createDependencyReducedPom>
               <outputDirectory>${project.basedir}/target/lib</outputDirectory>
-              <minimizeJar>true</minimizeJar>
+              <minimizeJar>false</minimizeJar>
               <filters>
                 <filter>
                   <artifact>*:*</artifact>
